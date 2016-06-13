@@ -25,6 +25,8 @@ Unix существовала специальная, предназначенн
 
 ![Terminal image](terminal.png "Окно программы Terminal")
 
+На картинке видно окно программы Terminal и текст, напечатанный программой **bash**.
+
 
 [WIMP]: https://en.wikipedia.org/wiki/WIMP_(computing)
 [телетайп]: https://ru.wikipedia.org/wiki/Телетайп
