@@ -23,7 +23,7 @@ Unix существовала специальная, предназначенн
 за рисование окна. А внутри терминала запускается оболочка, которая и принимает
 команды пользователя.
 
-![Terminal image](terminal.png)
+![Terminal image](terminal.png "Окно программы Terminal")
 
 
 [WIMP]: https://en.wikipedia.org/wiki/WIMP_(computing)
